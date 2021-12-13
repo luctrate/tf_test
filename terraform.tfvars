@@ -1,2 +1,2 @@
-project_id = "REPLACE_ME"
-region     = "us-central1"
+project_id = "mlops-324206"
+region     = "europe-west2"
